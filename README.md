@@ -1,4 +1,7 @@
-### Hi there 👋
+# <div align="center">Hello everyone around here! 🙌 I'm Andrés, Software developer 💻</div>
+## <div align="center">Welcome to my profile, where you can find all my projects done on my road to become a professional programmer</div>
+
+I'm currently studing in a tertiary school  learning React.js and Node.js creating differents web applications as demo projects.
 
 <!--
 **ANRI-git/ANRI-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
