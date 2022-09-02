@@ -1,6 +1,5 @@
-# <div align="center">Hello everyone around here! 🙌 I'm Andrés, Software developer 💻</div>
-## <div align="center">Welcome to my profile, where you can find all my projects done on my road to become a professional programmer 😁</div>
-
+## <div align="center">Hello everyone around here! 🙌 I'm Andrés, Software developer 💻</div>
+<h3 align="center">Welcome to my profile,</br> where you can find all my projects done on my road to become a professional programmer 😁</h3>
 I'm an argentinian young software developer, currently studing Software Developer technician in a tertiary school and in addition learning React.js & Node.js in a bootcamp where I create differents web applications as demo projects.</br>
 💼 Also working in some freeelance front-end jobs.
 
