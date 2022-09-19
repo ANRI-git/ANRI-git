@@ -1,9 +1,9 @@
 ## <div align="center">Hello everyone around here! 🙌 I'm Andrés, Software developer 💻</div>
 <h3 align="center">Welcome to my profile,</br> where you can find all my projects done on my road to become a professional programmer 😁</h3>
-I'm an argentinian young software developer, currently studing Software Developer technician in a tertiary school and in addition learning React.js & Node.js in a bootcamp where I create differents web applications as demo projects.</br>
+🌎 I'm an argentinian young software developer 💻, currently studing Software Developer technician in a tertiary school and in addition learning React.js & Node.js in a bootcamp where I create differents web applications as demo projects.</br>
 💼 Also working in some freeelance front-end jobs.
 
-feel free to wander through my repository and see all my work!
+👀 feel free to wander through my repository and see all my work!
 
 Reach me: 
 - Linkedin 🌎: [Andres Ramirez](https://www.linkedin.com/in/andres-ramirez-software-dev/) 
